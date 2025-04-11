@@ -4,7 +4,7 @@ Hello there! I'm someone who's always been fascinated by the night sky, from chi
 
 💻 I enjoy working on scientific problems that require both analytical thinking and creativity. I'm experienced with Python and LaTeX, and I’ve worked with astronomical catalogs and UV/optical photometric data—always aiming to turn complex data into meaningful insights.
 
-🪐 I'm passionate about space science, and I also love exploring how technology (especially in the Apple ecosystem) helps us connect, create, and discover.
+🪐 I'm passionate about space science, and I also love exploring how technology helps us connect, create, and discover.
 
 🏔️ Outside of work, I’m a big music lover: you’ll often find me coding with a playlist in the background! I also care about sustainability, I enjoy reading, caring about my plants and feel most alive when I’m in the mountains, whether hiking or simply soaking in the quiet.
 
