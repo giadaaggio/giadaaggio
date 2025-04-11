@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi, I'm Giada!
 
-🎓 I recently graduated with a Master's degree in Astrophysics and Cosmology, driven by a deep curiosity for the universe and a passion for exploring it through science and programming. My academic journey has equipped me with strong analytical thinking, problem-solving skills, and solid experience in scientific coding and data analysis.
+Hello there! I'm someone who's always been fascinated by the night sky—from childhood stargazing to recently completing a Master's degree in ✨Astrophysics and Cosmology✨. That curiosity for the universe has grown into a passion for stars, stellar evolution, and binary systems, and today I love exploring these topics through programming and data analysis.
 
-🌟 I’m especially interested in stars, stellar evolution, and binary systems, and I enjoy working on problems that combine physics, data, and computational tools to better understand the cosmos. I have a solid working knowledge of Python and LaTeX, and I'm experienced in astronomical catalog building and the analysis of UV and optical photometric data.
+💻 I enjoy working on scientific problems that require both analytical thinking and creativity. I'm experienced with Python and LaTeX, and I’ve worked with astronomical catalogs and UV/optical photometric data—always aiming to turn complex data into meaningful insights.
 
-🚀 I'm passionate about space science and how technology can be used to explore complex systems. I love staying up to date with new innovations, and I’m always curious about the latest tools and platforms shaping our digital world.
+🚀 I'm passionate about space science, and I also love exploring how technology (especially in the Apple ecosystem) helps us connect, create, and discover.
 
-🎵 Outside of science, music plays a big role in my life—whether it's discovering new artists, going to concerts, or simply getting lost in a playlist while coding. 📚 I’m also passionate about reading and sustainability, and I find peace and energy in the mountains: hiking, exploring, or just being surrounded by nature.
+🎵 Outside of work, I’m a big music lover—you’ll often find me coding with a playlist in the background. I also care about sustainability, enjoy reading, and feel most alive when I’m in the mountains, whether hiking or simply soaking in the quiet.
 
-🌱 I'm now looking forward to new challenges and opportunities where I can apply my skills, continue learning, and contribute to meaningful and inspiring projects.
+🌱 I'm always open to learning something new, collaborating on exciting projects, or just connecting with people who share similar passions. Thanks for stopping by!
